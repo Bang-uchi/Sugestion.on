@@ -1,5 +1,4 @@
-# Sugestion.on
-rajawali tes
+
 <servers>
 <server name=" RPU ORLOK ENREKANG" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="rpu.orlok-enrekang.com" port="64730" region="ID" url="https://radio.nasional.online" token="null"/>
 <server name=" 🇮🇩 DRN BACKUP 1" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="103.157.26.171" port="64738" region="ID" url="https://radio.nasional.online" token="null"/>
